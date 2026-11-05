@@ -1,0 +1,22 @@
+.idea/
+.goland/
+.vscode/
+.DS_Store
+
+# Build outputs
+dist/
+*.exe
+*.test
+*.out
+
+# Local configuration may contain proxy credentials
+settings.conf
+
+# Runtime data
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+wallpaper.bmp
