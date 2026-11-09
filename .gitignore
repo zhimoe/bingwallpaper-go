@@ -4,6 +4,7 @@
 .DS_Store
 
 # Build outputs
+build/
 dist/
 *.exe
 *.test
